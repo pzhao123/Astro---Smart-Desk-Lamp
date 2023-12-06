@@ -3,11 +3,13 @@ Astro - A Smart Desk Lamp
 </h1>
 
 ![astro](/astro.png)
+
 ---
 <p align="center">
 This repository contains the Arduino code for Astro, a smart desk lamp designed and built by Peter Zhao, Audrey Wang, Joelie Simkins, and Henry Lin.
 </p>
 ---
+
 ## Summary
 The goal of this project was to create a smart desk lamp that could be effectively used by everyone, focusing specifically on those who might have dexterity issues. Along with this accessibility aspect, the lamp was also created with the goal of increasing productivity and focus, while decreasing its hindrance to sleep for its users. Addressing those with dexterity issues, the desk lamp’s light can be turned on using voice activation so that users don’t have to physically interact with the lamp to be able to make use of it. In the case that voice activation may not be desired, there is also a button, specifically chosen with a large diameter, that can be used to turn the light on/off as well as cycle through the given settings. The button’s large diameter ensures that users do not need fine motor skills to interact with it. To increase productivity and focus, the desk lamp has systems in place so that as the day progresses, the amount of blue light emissions decreases. The lamp also has the ability to, depending on the amount of light in a room, change light settings both automatically using a light sensor or manually using the button or voice module. This can allow the user to work for long periods of time without having to worry about straining their eyes. 
 

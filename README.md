@@ -1,7 +1,8 @@
 <h1 align="center">
 Astro - A Smart Desk Lamp
 </h1>
-![Logo](/astro.png)
+
+![astro](/astro.png)
 ---
 <p align="center">
 This repository contains the Arduino code for Astro, a smart desk lamp designed and built by Peter Zhao, Audrey Wang, Joelie Simkins, and Henry Lin.

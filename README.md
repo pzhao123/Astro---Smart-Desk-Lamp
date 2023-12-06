@@ -6,7 +6,7 @@ Astro - A Smart Desk Lamp
 
 ---
 <p align="center"><b>
-This repository contains the Arduino code for Astro, a smart desk lamp designed and built by Peter Zhao, Audrey Wang, Joelie Simkins, and Henry Lin.</b>
+This repository contains the Arduino code for Astro, a smart desk lamp designed and built by Peter Zhao, Audrey Wang, Joelie Simkins, and Henry Lin.</b> This codebase was developed by Peter Zhao.
 </p>
 
 <br>
